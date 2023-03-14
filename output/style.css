@@ -1,0 +1,27 @@
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+/* Classes: */
+.card {
+  border: 0px;
+  background: #f6f7f9
+}
+
+.employee-card {
+  box-shadow: 8px 8px 8px gray;
+}
+
+.jumbotron {
+  background: #e84756;
+  padding: 2em;
+}
+
+.list-group-item {
+  padding: 0.5em;
+}
