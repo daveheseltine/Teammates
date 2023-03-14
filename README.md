@@ -99,7 +99,6 @@ The styling in the image is just an example, so feel free to add your own.<a hre
 ___
 # Deployment
 ## URL
-* The URL of the deployed application: https://daveheseltine.github.io/Teammates/
 * The URL of the GitHub Repository: https://github.com/daveheseltine/Teammates
 
 </br>
